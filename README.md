@@ -42,7 +42,7 @@ From within the root directory:
 ```sh
 sudo npm install -g bower
 npm install
-bower install
+bower install 
 ```
 
 ### Viewing the project

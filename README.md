@@ -1,6 +1,6 @@
 # GAMEBOARD
 
-  > An application for connecting people who want to play board games.
+  > An application for connecting people who want to play board games. 
 
 
 ## Table of Contents
